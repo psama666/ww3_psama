@@ -180,7 +180,7 @@ padding: 0 21px;
 
     margin-top: 46px;
 padding-top: 50%;
-background: url('./assets/img/slider1/859804.png') top center /cover no-repeat;
+background: url('../assets/img/slider1/859804.png') top center /cover no-repeat;
 
 }
 #slider .text-content{
@@ -253,7 +253,7 @@ text-shadow: 0 0 1px #000;
 #content .background{
     margin-top: 46px;
     padding-top: 50%;
-  background: url(./assets/img/slider1/820024.png) center /cover no-repeat;
+  background: url(../assets/img/slider1/820024.png) center /cover no-repeat;
     
 }
 
